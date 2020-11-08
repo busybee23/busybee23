@@ -29,6 +29,17 @@
 </div>
 </p>
 
+**Language/Tools:**
+<br>
+<br>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="30" width="30"/>&nbsp; <img 
+src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"  height="30" width="30"/>&nbsp; <img 
+src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux"  height="30" width="30"/>&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="30" width="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  height="30" width="30"/> &nbsp;<img
+src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  height="30" width="30"/>&nbsp; <img
+src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"  height="30" width="30"/>&nbsp;<img
+src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  height="30" width="30"/>&nbsp; <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"  height="30" width="30"/>&nbsp;
+
+
 ###  Completed two projects with deployment
 ####  1. [Titanic Survival Prediction](https://github.com/busybee23/KAGGLE/tree/master/TITANIC%20KAGGLE) 
 ####  2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)
