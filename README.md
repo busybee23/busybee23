@@ -12,6 +12,9 @@
 <a href="https://twitter.com/busyb3e">
   <img src="assets\twitter.svg" >
 </a>
+<a href="https://busybee23.github.io/">
+  <img src="assets\web.svg" >
+</a>
 </p>
 
 <p>
@@ -43,13 +46,13 @@ src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tens
 ###  Completed two projects with deployment
 ####  1. [Titanic Survival Prediction](https://github.com/busybee23/KAGGLE/tree/master/TITANIC%20KAGGLE) 
 ####  2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)
-####  I'm a AI enthusiast and love to build logical and practical applications. I have a experience and quite good skill set in Python, C and C++.  
+####  I'm an AI enthusiast and love to build logical and practical applications. I have an experience and quite a superior skill set in Python, C and C++.
+ 
 
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busybee23&theme=dracula" alt="busybee23" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busybee23&show_icons=true&theme=dracula" alt="busybee23" /></p>
 
 **Visitors Count**  
-
 ![VisitorCount](https://profile-counter.glitch.me/{busybee23}/count.svg)
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
 
