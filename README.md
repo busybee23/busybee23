@@ -1,4 +1,4 @@
-# 👋 This is Yash Chaudhary A.K.A busybee
+# 👋 This is Yash Chaudhary aka busybee
 <p>
 <a href="https://instagram.com/_busybee23">
   <img src="assets\instagram.svg" >
@@ -47,4 +47,9 @@ src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tens
 
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busybee23&theme=dracula" alt="busybee23" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busybee23&show_icons=true&theme=dracula" alt="busybee23" /></p>
+
+**Visitors Count**  
+
+![VisitorCount](https://profile-counter.glitch.me/{busybee23}/count.svg)
+<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
 
