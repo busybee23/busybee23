@@ -21,15 +21,17 @@
 </div>
 </p>
 
-#### I'm a full stack web developer. I'm proficient in ReactJs,NuxtJs, VueJs, NextJs, NodeJs 
-#### And have experience with animation library such as lottie js and material.
+#### I'm a machine learning developer. I'm proficient in Python, Juypter, Tensorflow, Google Collab and all famous M.L libs.
+#### And have experience in deploying models using Flask on Platform as a service (PAAS) like heroku.
 <p>
 <div class="hello">
   <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
 </div>
 </p>
 
-####  Have knowledge and experience in App Dev through flutter and react native.
-####  I'm a Blockchain enthusiast and love to build decentralised applications. I have a experience and quite good skill set in Python, C and C++.  
+###  Completed two projects with deployment
+####  1. [Titanic Survival Prediction](https://github.com/busybee23/KAGGLE/tree/master/TITANIC%20KAGGLE) 
+####  2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)
+####  I'm a AI enthusiast and love to build logical and practical applications. I have a experience and quite good skill set in Python, C and C++.  
 
 
