@@ -45,4 +45,6 @@ src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tens
 ####  2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)
 ####  I'm a AI enthusiast and love to build logical and practical applications. I have a experience and quite good skill set in Python, C and C++.  
 
+</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busybee23&theme=dracula" alt="busybee23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busybee23&show_icons=true&theme=dracula" alt="busybee23" /></p>
 
