@@ -22,9 +22,8 @@
 </p>
 
 #### I'm a machine learning developer. I'm proficient in Python, Juypter, Tensorflow, Google Collab and all famous M.L libs.
-<br>
 
-#### Have=ing experience in deploying models using Flask on Platform as a service (PAAS) like heroku.
+#### Having experience in deploying models using Flask on Platform as a service (PAAS) like heroku.
 <p>
 <div class="hello">
   <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
@@ -51,7 +50,7 @@ src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tens
 <br>
 
 > ### the only way to master things is by troubleshooting them yourselves 
-<p> 
+<br>
 
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busybee23&theme=dracula" alt="busybee23" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busybee23&show_icons=true&theme=dracula" alt="busybee23" /></p>
