@@ -17,15 +17,18 @@
 </a>
 </p>
 
-<p>
 
 <div class="hello">
   <div class="inner" ><img src="assets/animation_500_kckasloz.gif" align="right" height="500" width="500" padding-top:"20"></div>
 </div>
-</p>
 
-#### I'm a machine learning developer. I'm proficient in Python, Juypter, Tensorflow, Google Collab and all famous M.L libs.
-#### And have experience in deploying models using Flask on Platform as a service (PAAS) like heroku.
+> ### jack of all trades is a master of none, but oftentimes better than a master of one.
+<br>
+
+> ### the only way to master anything is by troubleshooting and doing it yourself.
+
+
+#### I'm a machine learning enthusiast. I'm proficient with Python, Juypter, Tensorflow, Google Collab and all famous M.L libraries and have experience in deploying models using Flask on Platform as a service (PAAS) like heroku.
 <p>
 <div class="hello">
   <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
