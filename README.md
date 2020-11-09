@@ -16,19 +16,15 @@
   <img src="assets\web.svg" >
 </a>
 </p>
-
-
 <div class="hello">
   <div class="inner" ><img src="assets/animation_500_kckasloz.gif" align="right" height="500" width="500" padding-top:"20"></div>
 </div>
+</p>
 
-> ### jack of all trades is a master of none, but oftentimes better than a master of one.
+#### I'm a machine learning developer. I'm proficient in Python, Juypter, Tensorflow, Google Collab and all famous M.L libs.
 <br>
 
-> ### the only way to master anything is by troubleshooting and doing it yourself.
-
-
-#### I'm a machine learning enthusiast. I'm proficient with Python, Juypter, Tensorflow, Google Collab and all famous M.L libraries and have experience in deploying models using Flask on Platform as a service (PAAS) like heroku.
+#### Have=ing experience in deploying models using Flask on Platform as a service (PAAS) like heroku.
 <p>
 <div class="hello">
   <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
@@ -49,13 +45,13 @@ src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tens
 ###  Completed two projects with deployment
 ####  1. [Titanic Survival Prediction](https://github.com/busybee23/KAGGLE/tree/master/TITANIC%20KAGGLE) 
 ####  2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)
-<!-- ####  I'm an AI enthusiast and love to build logical and practical applications. I have an experience and quite a superior skill set in Python, C and C++. -->
-
-> #### jack of all trades is a master of none, but oftentimes better than a master of one.
 <br>
 
-> #### the only way to master things is by troubleshooting them yourselves 
- 
+> ### jack of all trades is a master of none, but oftentimes better than a master of one.
+<br>
+
+> ### the only way to master things is by troubleshooting them yourselves 
+<p> 
 
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busybee23&theme=dracula" alt="busybee23" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busybee23&show_icons=true&theme=dracula" alt="busybee23" /></p>
