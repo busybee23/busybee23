@@ -30,7 +30,7 @@
 </div>
 </p>
 
-<!--
+
 **Language/Tools:**
 <br>
 <br>
@@ -40,10 +40,9 @@ src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.s
 src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  height="30" width="30"/>&nbsp; <img
 src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"  height="30" width="30"/>&nbsp;<img
 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  height="30" width="30"/>&nbsp; <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"  height="30" width="30"/>&nbsp;
---!>
 
 
-###  Completed two projects with deployment
+### Completed two projects with deployment
 ####  1. [Titanic Survival Prediction](https://github.com/busybee23/KAGGLE/tree/master/TITANIC%20KAGGLE) 
 ####  2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)
 <br>
