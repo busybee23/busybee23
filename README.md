@@ -30,6 +30,7 @@
 </div>
 </p>
 
+<!---
 # CODE IS BROKEN AFTER THIS
 
 **Language/Tools:**
@@ -47,16 +48,17 @@ src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tens
 ####  1. [Titanic Survival Prediction](https://github.com/busybee23/KAGGLE/tree/master/TITANIC%20KAGGLE) 
 ####  2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)
 <br>
-
+ --->
 > ### jack of all trades is a master of none, but oftentimes better than a master of one.
 <br>
 
 > ### the only way to master things is by troubleshooting them yourselves 
 <br>
-
+ 
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busybee23&theme=dracula" alt="busybee23" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busybee23&show_icons=true&theme=dracula" alt="busybee23" /></p>
 
+ 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{busybee23}/count.svg)
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
