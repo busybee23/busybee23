@@ -53,6 +53,8 @@
 
 ###  Projects ( Deployed )
 1. [Titanic Survival Prediction](https://github.com/busybee23/KAGGLE/tree/master/TITANIC%20KAGGLE)🚢
+<br>
+
 2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)💉
 <br>
 
