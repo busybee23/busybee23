@@ -15,7 +15,7 @@
 
 <br>
 
-- 🥅 Practising Data Structure and Algorithms using C++ on various coding platforms like GFG and Leetcode. 
+- 🥅 Practising Data Structure and Algorithms using C++ on various coding platforms like GFG, Leetcode, Codechef. 
 
 <br>
 
