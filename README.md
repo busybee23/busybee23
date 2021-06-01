@@ -55,7 +55,6 @@
 1. [Titanic Survival Prediction](https://github.com/busybee23/KAGGLE/tree/master/TITANIC%20KAGGLE)🚢
 
 2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)💉
-<br>
 
 ### Open Source Contribution 
 1. [Google](https://github.com/google) 🚀
