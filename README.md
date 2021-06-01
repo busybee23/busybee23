@@ -53,27 +53,20 @@
 
 ###  Projects ( Deployed )
 1. [Titanic Survival Prediction](https://github.com/busybee23/KAGGLE/tree/master/TITANIC%20KAGGLE)🚢
-<br>
 
 2. [Diabetes Detection](https://github.com/busybee23/Diabetes-Detection)💉
 <br>
 
 ### Open Source Contribution 
 1. [Google](https://github.com/google) 🚀
-<br>
 
 2. [The Algorithms](https://github.com/TheAlgorithms) 💻
-<br>
 
 3. [CodeTrophs](https://github.com/CodeTrophs)💥
-<br>
 
 4. [FreeTubeApp](https://github.com/FreeTubeApp)❄️
-<br>
 
 5. [First Contributions](https://github.com/firstcontributions)⚡
-
-<br>
 
 > ### jack of all trades is a master of none, but oftentimes better than a master of one.
 <br>
